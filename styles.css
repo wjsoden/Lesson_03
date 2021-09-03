@@ -1,0 +1,65 @@
+/* Global Styles
+-----------------------------*/
+body{
+    color:black;  
+    
+}
+a{
+    color:darkolivegreen;
+    text-decoration: none;
+    
+}
+
+/*Profile
+-----------------------------*/
+Header{
+   background:#2F3061;
+color:aliceblue;
+    
+}
+
+}
+
+
+
+
+
+/* Projects
+-----------------------------*/
+.projects{
+    background: #b7eef7;
+}
+    
+
+
+
+/*Work Experience
+----------------------------*/
+.work-experience {
+    background:#A1C6D7;
+}
+
+
+
+/*Education
+---------------------------*/
+
+
+
+
+/*Contact
+---------------------------*/
+
+footer{
+    background:darkslategray;
+    color:aliceblue;
+}
+footer a
+{ color:antiquewhite;}
+
+
+        
+        
+        
+    
+
